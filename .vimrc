@@ -107,7 +107,6 @@ NeoBundleLazy 'junegunn/vim-easy-align', {
   \ 'filetypes': 'ruby',
   \ }}
 NeoBundle 'scrooloose/nerdtree'
-NeoBundle 'wakatime/vim-wakatime'
 NeoBundle 'thinca/vim-quickrun'
 NeoBundle 'itchyny/lightline.vim'
 
